@@ -1,5 +1,5 @@
 # MiniCursoArduino
- Minicurso Arduino para iniciantes  
+ Minicurso de Arduino para iniciantes  
  Assuntos:  
  1 - Conceitos de Eletrônica Básica  
       a) Corrente  
